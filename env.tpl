@@ -1,5 +1,5 @@
 # (Optional) Server API Access Password for enhanced security
-ACCESS_PASSWORD=9656396563
+ACCESS_PASSWORD=
 
 # (Deprecated) Server-side Gemini API Proxy URL. Default, `https://generativelanguage.googleapis.com`
 API_PROXY_BASE_URL=https://g4.eattea.uk
