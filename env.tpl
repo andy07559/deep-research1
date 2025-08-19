@@ -5,9 +5,9 @@ ACCESS_PASSWORD=9656396563
 API_PROXY_BASE_URL=https://g2.139.ink
 
 # (Optional) Server-side Gemini API Key (Required for server API calls)
-GOOGLE_GENERATIVE_AI_API_KEY=9656396563
+GOOGLE_GENERATIVE_AI_API_KEY=
 # (Optional) Server-side Gemini API Proxy URL. Default, `https://generativelanguage.googleapis.com`
-GOOGLE_GENERATIVE_AI_API_BASE_URL=https://g4.eattea.uk
+GOOGLE_GENERATIVE_AI_API_BASE_URL=https://g2.139.ink
 
 # (Optional) The Google Cloud project ID that you want to use for the API calls.
 GOOGLE_VERTEX_PROJECT=
